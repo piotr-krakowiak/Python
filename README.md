@@ -1,4 +1,6 @@
-# The Analysis
+# European Data Job Market: Skills & Salary Analysis
+
+## The Analysis
 
 ## 1. What are the most demanded skills?
 
